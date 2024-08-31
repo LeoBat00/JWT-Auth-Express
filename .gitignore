@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de build
+dist/
+build/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Outros arquivos específicos do projeto
+*.tgz
+*.lock
